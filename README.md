@@ -1,13 +1,8 @@
 # **Affirmation Generator – Free Online Tool for Daily Positive Affirmations**
 
-<p align="center">
-
-[![Live Demo](https://img.shields.io/badge/Live_Demo-Visit_Now-green?style=for-the-badge)](https://affirmationflow.com/affirmation-generator/)
-[![GitHub stars](https://img.shields.io/github/stars/skumar840/affirmation-generator.svg?style=for-the-badge)](https://github.com/skumar840/affirmation-generator/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/skumar840/affirmation-generator.svg?style=for-the-badge)](https://github.com/skumar840/affirmation-generator/network/members)
-[![GitHub issues](https://img.shields.io/github/issues/skumar840/affirmation-generator.svg?style=for-the-badge)](https://github.com/skumar840/affirmation-generator/issues)
-[![GitHub license](https://img.shields.io/github/license/skumar840/affirmation-generator.svg?style=for-the-badge)](https://github.com/skumar840/affirmation-generator/blob/main/LICENSE)
-</p>
+[![Live Demo](https://img.shields.io/badge/Demo-Live%20Demo-brightgreen)](https://affirmationflow.com/affirmation-generator/)
+[![GitHub Stars](https://img.shields.io/github/stars/skumar840/affirmation-generator?style=social)](https://github.com/skumar840/affirmation-generator)
+[![License](https://img.shields.io/badge/License-MIT-blue)](LICENSE)
 
 
 **AffirmationFlow’s Affirmation Generator** is a free online tool that instantly creates personalized affirmations for different categories like **positivity, confidence, gratitude, success, relationships, health, peace, and more**.  
