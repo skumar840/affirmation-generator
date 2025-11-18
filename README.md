@@ -1,9 +1,9 @@
 # **Affirmation Generator – Free Online Tool for Daily Positive Affirmations**
 
 [![Live Demo](https://img.shields.io/badge/Demo-Live%20Demo-brightgreen)](https://affirmationflow.com/affirmation-generator/)
-[![GitHub Stars](https://img.shields.io/github/stars/skumar840/affirmation-generator?style=social)](https://github.com/skumar840/affirmation-generator)
+[![GitHub Stars](https://img.shields.io/github/stars/skumar840/affirmation-generator?style=social)](https://github.com/skumar840/affirmation-generator/stargazers)
+[![GitHub Forks](https://img.shields.io/github/forks/skumar840/affirmation-generator?style=social)](https://github.com/skumar840/affirmation-generator/network/members)
 [![License](https://img.shields.io/badge/License-MIT-blue)](LICENSE)
-
 
 **AffirmationFlow’s Affirmation Generator** is a free online tool that instantly creates personalized affirmations for different categories like **positivity, confidence, gratitude, success, relationships, health, peace, and more**.  
 It helps users find accurate, uplifting affirmations they can **copy, save, and revisit anytime**.
