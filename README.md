@@ -6,6 +6,14 @@ It helps users find accurate, uplifting affirmations they can **copy, save, and 
 🔗 **Try the tool here:**  
 https://affirmationflow.com/affirmation-generator/
 
+## 📸 Screenshots
+
+### 🏠 Affirmation Generator – Home Page
+<img src="images/screenshot1.png" width="700">
+
+### 🎯 Category Selection
+<img src="images/screenshot2.png" width="700">
+
 ## ⭐ **What Is the Affirmation Generator?**
 
 The **Affirmation Generator** is a simple and powerful tool that generates meaningful affirmations based on your emotional needs or goals. Whether you want motivation, self-love, clarity, or confidence, this tool instantly provides high-quality affirmations customized for your mindset.
